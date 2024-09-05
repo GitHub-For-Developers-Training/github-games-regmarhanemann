@@ -1,5 +1,7 @@
 ## Welcome to GitHub Games
 
+I hope this is fun!
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://github-for-developers-training.github.io/github-games-regmarhanemann/
